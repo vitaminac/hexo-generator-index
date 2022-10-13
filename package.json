@@ -37,6 +37,6 @@
     "nyc": "^15.0.0"
   },
   "dependencies": {
-    "hexo-pagination": "2.0.0"
+    "hexo-pagination": "3.0.0"
   }
 }
